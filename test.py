@@ -1,9 +1,10 @@
 class node:
-    def __init__(self,data):
+    def __init__(self,data,prince):
         self.data=data
         self.next=None
         self.prev=None
         self.my=dsfsdf
+        self.prince=None
 def addNode(head,data):
     temp=head
     while(temp.next!=None):
