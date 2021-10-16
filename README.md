@@ -10,7 +10,9 @@
     <a href="https://rira.wtf"><img src="https://img.shields.io/github/pipenv/locked/python-version/apratimshukla6/RiRa" alt="Python Version" /></a>
     <a href="https://github.com/apratimshukla6/RiRa/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/github/license/apratimshukla6/RiRa" /></a>
   </p>
-</div>
+</div>\
+changes for side branch
+OK DOOOOOOOOOOOOOOOD
 
 ## About 
 
