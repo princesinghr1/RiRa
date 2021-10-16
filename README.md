@@ -82,7 +82,7 @@ The logs will be saved in `rira.log`
   <tr>
     <td>!nowplaying</td>
     <td>!np, !current</td>
-    <td>Shows currently playing music</td>
+    <td>Shows music which is currently playing</td>
     <td>!np</td>
   </tr>
   <tr>
