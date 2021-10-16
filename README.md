@@ -61,7 +61,7 @@ Open `terminal` in project directory and execute the following:
 pipenv shell
 python -m rira
 ```
-
+This comment has made for free t shirt
 The logs will be saved in `rira.log`
 
 ## RiRa Commands
